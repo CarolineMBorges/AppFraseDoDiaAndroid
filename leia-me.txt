@@ -1,0 +1,1 @@
+Este aplicativo sorteia uma frase para o usuário. As frases são armazenadas em um vetor e sorteadas randomicamente
